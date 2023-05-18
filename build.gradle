@@ -1,8 +1,9 @@
 plugins {
     id 'com.android.application' version '7.0.0'
-    id 'kotlin-android'
-    id 'kotlin-kapt'
+    id 'kotlin-android' version '1.5.21'
+    id 'kotlin-kapt' version '1.5.21'
 }
+
 
 android {
     compileSdkVersion 31
