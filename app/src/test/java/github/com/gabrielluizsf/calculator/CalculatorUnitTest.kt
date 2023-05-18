@@ -5,7 +5,7 @@ import androidx.test.ext.junit.rules.ActivityScenarioRule
 import org.junit.Rule
 import org.junit.Test
 
-class MainActivityTest {
+class CalculatorUnitTest {
 
     @get:Rule
     val activityRule = ActivityScenarioRule(MainActivity::class.java)
